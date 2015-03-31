@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neovolve.LinkChecker", "Neovolve.LinkChecker\Neovolve.LinkChecker.csproj", "{936B92F5-8A86-4641-92AC-F138AE072189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neovolve.LinkChecker.UnitTests", "Neovolve.LinkChecker.UnitTests\Neovolve.LinkChecker.UnitTests.csproj", "{96ABE7D0-6A74-4927-995D-730905FAA4D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6169C72E-E7D4-4725-BCDC-B5644B0445A0}"
+	ProjectSection(SolutionItems) = preProject
+		Neovolve.LinkChecker.testrunconfig = Neovolve.LinkChecker.testrunconfig
+		Neovolve.LinkChecker.vsmdi = Neovolve.LinkChecker.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs04.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Neovolve.LinkChecker\\Neovolve.LinkChecker.csproj
+		SccProjectName1 = Neovolve.LinkChecker
+		SccLocalPath1 = Neovolve.LinkChecker
+		SccProjectUniqueName2 = Neovolve.LinkChecker.UnitTests\\Neovolve.LinkChecker.UnitTests.csproj
+		SccProjectName2 = Neovolve.LinkChecker.UnitTests
+		SccLocalPath2 = Neovolve.LinkChecker.UnitTests
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Neovolve.LinkChecker.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936B92F5-8A86-4641-92AC-F138AE072189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936B92F5-8A86-4641-92AC-F138AE072189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936B92F5-8A86-4641-92AC-F138AE072189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936B92F5-8A86-4641-92AC-F138AE072189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96ABE7D0-6A74-4927-995D-730905FAA4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96ABE7D0-6A74-4927-995D-730905FAA4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96ABE7D0-6A74-4927-995D-730905FAA4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96ABE7D0-6A74-4927-995D-730905FAA4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
